@@ -10,3 +10,11 @@
 section {
   padding-top: 5rem;
 }
+
+.sertif {
+  width: 100%;
+}
+
+#sertifikat .row > * {
+  padding: 0;
+}
